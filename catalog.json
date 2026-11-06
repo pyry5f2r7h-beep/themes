@@ -1,0 +1,2394 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 2,
+  "items": [
+    {
+      "id": "vibrant_splash",
+      "name": "Vibrant Splash",
+      "kind": "style",
+      "renderer": "static",
+      "category": "static",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background": {
+          "path": "styles/vibrant_splash/v1/background.webp",
+          "bytes": 227256,
+          "sha256": "dd82a4293a9d758b6448dfaf39460d7e024b2571a3f6353b2b662ce0b14cce7a"
+        },
+        "next": {
+          "path": "styles/vibrant_splash/v1/next.webp",
+          "bytes": 2526,
+          "sha256": "75fdb624e3e175b44ec4d18e9fd037b7529b34a2acc873026c06c08ffcca8143"
+        },
+        "pause": {
+          "path": "styles/vibrant_splash/v1/pause.webp",
+          "bytes": 4334,
+          "sha256": "4b3e31d5ab854f2fe9e783dd2d41283a5cb4d9d95057f8ab0f1d2bd0ddb95643"
+        },
+        "play": {
+          "path": "styles/vibrant_splash/v1/play.webp",
+          "bytes": 4384,
+          "sha256": "d8040da16fa114a7a68ba466121f9ce75f7abe7204eb95926b07b23d80b51b72"
+        },
+        "preview": {
+          "path": "styles/vibrant_splash/v1/preview.webp",
+          "bytes": 116304,
+          "sha256": "b9327351ef263d8cf5dec5e84a732c812c511341b86c669b2e8119ef5c538a19"
+        },
+        "previous": {
+          "path": "styles/vibrant_splash/v1/previous.webp",
+          "bytes": 2504,
+          "sha256": "b9b5d78456edaef82ba10cfcc8b4cb38e88ab36dff5f92608e5962d0e5152fb4"
+        }
+      }
+    },
+    {
+      "id": "colorful_frenzy",
+      "name": "Colorful Frenzy",
+      "kind": "style",
+      "renderer": "vinyl",
+      "category": "vinyl",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "rotationX": 60.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleX": 2.72,
+        "scaleY": 1.0,
+        "translationX": -0.05,
+        "translationY": -0.03,
+        "coverSize": 40.0
+      },
+      "assets": {
+        "background": {
+          "path": "styles/colorful_frenzy/v1/background.webp",
+          "bytes": 128648,
+          "sha256": "70c639adc94c158f27501c6572069728b7545b749d2471ac71782277055e0e0c"
+        },
+        "disc": {
+          "path": "styles/colorful_frenzy/v1/disc.webp",
+          "bytes": 9920,
+          "sha256": "b33655e0ccc9481f78b3421e90ff0453b04a3bebe9357f20717d58e945e12c3d"
+        },
+        "next": {
+          "path": "styles/colorful_frenzy/v1/next.webp",
+          "bytes": 10724,
+          "sha256": "98244c32a0ef3d4dd8a9b8c7608376e3204206b017f0bfba7ecec0dee2fca4de"
+        },
+        "pause": {
+          "path": "styles/colorful_frenzy/v1/pause.webp",
+          "bytes": 16738,
+          "sha256": "014fe5a7f32a31e676ab6a6b5a5c4edbbd1cd075358796664a03f064fea3d443"
+        },
+        "play": {
+          "path": "styles/colorful_frenzy/v1/play.webp",
+          "bytes": 17308,
+          "sha256": "2f9deab17cd7ad8379448e804e3679a94448a60ada4bc51d9ef262c8a924cd8f"
+        },
+        "preview": {
+          "path": "styles/colorful_frenzy/v1/preview.png",
+          "bytes": 972586,
+          "sha256": "a10478c6a2b8d36afeaeeaa317b3b1c7072c1f01513a175baf2df38700d6f747"
+        },
+        "previous": {
+          "path": "styles/colorful_frenzy/v1/previous.webp",
+          "bytes": 10684,
+          "sha256": "554433ec57543f89ec3a0e921cd4d0976840113f91637eed62084d2f597079c7"
+        }
+      }
+    },
+    {
+      "id": "rose_vinyl",
+      "name": "Rose Vinyl",
+      "kind": "style",
+      "renderer": "vinyl",
+      "category": "vinyl",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "rotationX": 54.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleX": 1.7,
+        "scaleY": 0.94,
+        "translationX": 0.01,
+        "translationY": -0.055,
+        "coverSize": 80.0
+      },
+      "assets": {
+        "background": {
+          "path": "styles/rose_vinyl/v1/background.webp",
+          "bytes": 81940,
+          "sha256": "f520bca182fcc207620a19d783b7b3a05e2fea8309f050ad080b26e3bc0e531b"
+        },
+        "disc": {
+          "path": "styles/rose_vinyl/v1/disc.webp",
+          "bytes": 9918,
+          "sha256": "b872d65a23051cdf7d5565126586382f2f9e6b7d491a8330b0b0664d42b338c3"
+        },
+        "next": {
+          "path": "styles/rose_vinyl/v1/next.webp",
+          "bytes": 2238,
+          "sha256": "a1be3f0a5f33cab806139a315d9100462fdced9cb751d792e815aa8445b826c3"
+        },
+        "pause": {
+          "path": "styles/rose_vinyl/v1/pause.webp",
+          "bytes": 4450,
+          "sha256": "30103163b1aa7ef2ee48260fc7abfe8538b64e842835d2b6ca4202fb2e2dd530"
+        },
+        "play": {
+          "path": "styles/rose_vinyl/v1/play.webp",
+          "bytes": 4484,
+          "sha256": "d45206cf67fbc04c5654220695df2af269c9a019a6fcafc224f1962f4f83ddf8"
+        },
+        "preview": {
+          "path": "styles/rose_vinyl/v1/preview.png",
+          "bytes": 843934,
+          "sha256": "96fbcd8af83c4aa993cb3647e99a22c29131950ba5698d65091e0c6b9d8b3891"
+        },
+        "previous": {
+          "path": "styles/rose_vinyl/v1/previous.webp",
+          "bytes": 2216,
+          "sha256": "226dd5df4967a8089d1a2cd79660753a4275ebef7857770ad9f059f852e30613"
+        }
+      }
+    },
+    {
+      "id": "petal_groove",
+      "name": "Petal Groove",
+      "kind": "style",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background_video": {
+          "path": "styles/petal_groove/v1/background_video.mp4",
+          "bytes": 436201,
+          "sha256": "59611a3bde16c87b5e5bc9eeee137973a672939b5d3c70cfb7c3f3a6dac08031"
+        },
+        "next": {
+          "path": "styles/petal_groove/v1/next.webp",
+          "bytes": 7048,
+          "sha256": "f2615d771148cf5e11e3e83e036815c6f41b3e445cc2c32aecd23cb546f66902"
+        },
+        "pause": {
+          "path": "styles/petal_groove/v1/pause.webp",
+          "bytes": 14636,
+          "sha256": "75a0fb8f2cf4f18d689721dbb9ab2e4522708a41a0addcbd9a3e7259c89a1499"
+        },
+        "play": {
+          "path": "styles/petal_groove/v1/play.webp",
+          "bytes": 14528,
+          "sha256": "7a0def95742df236537d79b0c6fdbc146b8cbc864f314aff69eab087d59c50ef"
+        },
+        "preview": {
+          "path": "styles/petal_groove/v1/preview.webp",
+          "bytes": 100446,
+          "sha256": "42c134b79d51e722c81c5576122f0129ba9ff68ae794ad87b0873da5d7c70ae4"
+        },
+        "previous": {
+          "path": "styles/petal_groove/v1/previous.webp",
+          "bytes": 7022,
+          "sha256": "9296c4f277ab49a350b89692afebea77838b2ea945e698f74cb7c34994f79386"
+        }
+      }
+    },
+    {
+      "id": "forest_voice",
+      "name": "Forest Voice",
+      "kind": "style",
+      "renderer": "static",
+      "category": "static",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background": {
+          "path": "styles/forest_voice/v1/background.webp",
+          "bytes": 143412,
+          "sha256": "461ec0e1aab7411362b7dac6db4c41e7a114513d44ec209914c91f48a6167491"
+        },
+        "next": {
+          "path": "styles/forest_voice/v1/next.webp",
+          "bytes": 2356,
+          "sha256": "671f6f8ea4620f13b7260e7352baf7f73c57f2daba9adabc390dec5c2903033e"
+        },
+        "pause": {
+          "path": "styles/forest_voice/v1/pause.webp",
+          "bytes": 4324,
+          "sha256": "42b43a21dbe609964a861ee8e922db0e720cad293a5ba5c5d464274479870712"
+        },
+        "play": {
+          "path": "styles/forest_voice/v1/play.webp",
+          "bytes": 4442,
+          "sha256": "0169657ef556cd86af8bf11d89b71739d84bd8db05688b8dfd67ec3d001b36d8"
+        },
+        "preview": {
+          "path": "styles/forest_voice/v1/preview.webp",
+          "bytes": 56946,
+          "sha256": "1f71743324d136b1997e06e069bbf394f79ef538cc4f3fbedbe6018e471613ce"
+        },
+        "previous": {
+          "path": "styles/forest_voice/v1/previous.webp",
+          "bytes": 2316,
+          "sha256": "ea31060a01e59b4f9361c54b63faa90947e6601d06f6d4ae75bbe04a7b9a34cf"
+        }
+      }
+    },
+    {
+      "id": "winter_cottage",
+      "name": "Winter Cottage",
+      "kind": "style",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background_video": {
+          "path": "styles/winter_cottage/v1/background_video.mp4",
+          "bytes": 441485,
+          "sha256": "876adab723d8046e35cb910e96e09e9603436ef9c0455e38edc06f47198398ca"
+        },
+        "next": {
+          "path": "styles/winter_cottage/v1/next.webp",
+          "bytes": 7462,
+          "sha256": "5f8d866fb24446fba9d88929e5764d8bfbdeea9f2fe664c6a001f17428d0d9aa"
+        },
+        "pause": {
+          "path": "styles/winter_cottage/v1/pause.webp",
+          "bytes": 13670,
+          "sha256": "3e1ef8ba3a78cf12367ca3eec07d1f04dc10af4efc7d729e32e84c37a60f380b"
+        },
+        "play": {
+          "path": "styles/winter_cottage/v1/play.webp",
+          "bytes": 13786,
+          "sha256": "3fe495d66c09aa91fd728de896cecd0d5635acb8e5c82ba2427f86b6d640a666"
+        },
+        "preview": {
+          "path": "styles/winter_cottage/v1/preview.webp",
+          "bytes": 55468,
+          "sha256": "be0d781a6557f8a3471e5f2e4b6465aa2ff5cd64319c1f33ec38a81bdd471427"
+        },
+        "previous": {
+          "path": "styles/winter_cottage/v1/previous.webp",
+          "bytes": 7470,
+          "sha256": "9e99d377ebeca3017711fdec95ef68403f0a2dbb5b7fe91d5e9cd8cec8c4db94"
+        }
+      }
+    },
+    {
+      "id": "glacier_aurora",
+      "name": "Glacier Aurora",
+      "kind": "style",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background_video": {
+          "path": "styles/glacier_aurora/v1/background_video.mp4",
+          "bytes": 1037539,
+          "sha256": "57bbb414febb46c26a778502855e2c9610542f627177c82ce8360264b2826821"
+        },
+        "next": {
+          "path": "styles/glacier_aurora/v1/next.webp",
+          "bytes": 4006,
+          "sha256": "b7b9f78f10094f2190e5f84cfc236436bf72c904c4a0a71820b6e8fbcb969a7b"
+        },
+        "pause": {
+          "path": "styles/glacier_aurora/v1/pause.webp",
+          "bytes": 9342,
+          "sha256": "02ef416c4e58faff8eb723bb7a42d51655a9b49923a9f74066f0cbe120b5d900"
+        },
+        "play": {
+          "path": "styles/glacier_aurora/v1/play.webp",
+          "bytes": 9206,
+          "sha256": "52fbb179f651dc7757e27b4c91715ec7005d16169c44990a3bcdc841dd5c6b32"
+        },
+        "preview": {
+          "path": "styles/glacier_aurora/v1/preview.webp",
+          "bytes": 67226,
+          "sha256": "c137bd7d598aca7921b0bb26045621c03d07022122a34514cebc8c5a4d309bf2"
+        },
+        "previous": {
+          "path": "styles/glacier_aurora/v1/previous.webp",
+          "bytes": 3998,
+          "sha256": "7ab7fad36ab9a4f6ca37ac019fabfd571a27f141318a9a6f656fc379253cab11"
+        }
+      }
+    },
+    {
+      "id": "from_saturn",
+      "name": "From Saturn",
+      "kind": "style",
+      "renderer": "vinyl",
+      "category": "vinyl",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "rotationX": 45.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleX": 1.52,
+        "scaleY": 1.0,
+        "translationX": 0.0,
+        "translationY": -0.03,
+        "coverSize": 60.0
+      },
+      "assets": {
+        "background": {
+          "path": "styles/from_saturn/v1/background.webp",
+          "bytes": 307234,
+          "sha256": "c8c69a058c69cbb5ff28560a24e523aaf62242ea981e16fddf8734b55fd27b5d"
+        },
+        "disc": {
+          "path": "styles/from_saturn/v1/disc.webp",
+          "bytes": 46880,
+          "sha256": "952dde604decd0db0e69f2f73c8616eae8fa2ef74a6554faab92f94373924490"
+        },
+        "next": {
+          "path": "styles/from_saturn/v1/next.webp",
+          "bytes": 5250,
+          "sha256": "55fade9bf501f60f7feb631228961b20f5f5ec36044dd910d841e9853734a596"
+        },
+        "pause": {
+          "path": "styles/from_saturn/v1/pause.webp",
+          "bytes": 8238,
+          "sha256": "62081af9f6eed53942945b32deea1c5285af44fc3bcc5a4546aab3c027fee0f6"
+        },
+        "play": {
+          "path": "styles/from_saturn/v1/play.webp",
+          "bytes": 8344,
+          "sha256": "4fb516a76115856bded7a9a7aebedef4167dc4efe3041698761d79b15c420943"
+        },
+        "preview": {
+          "path": "styles/from_saturn/v1/preview.png",
+          "bytes": 1160997,
+          "sha256": "ca990bf897d94d3494a39caf700681883c703c56988ce70677ed482bdf799b9c"
+        },
+        "previous": {
+          "path": "styles/from_saturn/v1/previous.webp",
+          "bytes": 5128,
+          "sha256": "b7364f25e2c7cb88791e65b385f9cf54a71b0e110eb1648b86fe15bed5e905e3"
+        }
+      }
+    },
+    {
+      "id": "coral_sky",
+      "name": "Coral Sky",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 168.0,
+        "layeredBackground": true
+      },
+      "assets": {
+        "background": {
+          "path": "styles/coral_sky/v1/background.webp",
+          "bytes": 30348,
+          "sha256": "55a41424a52f94136d262fcede235c892bec673260ddf690a4204d1f078bc054"
+        },
+        "background_overlay": {
+          "path": "styles/coral_sky/v1/background_overlay.webp",
+          "bytes": 40850,
+          "sha256": "68241af01a1133499f207ee1d533ac28c56d88a52d5529168482727227b11f84"
+        },
+        "disc": {
+          "path": "styles/coral_sky/v1/disc.webp",
+          "bytes": 106896,
+          "sha256": "a640a848d98511f519603245cbc2fc3097d04e01624639dc64f33cc02270baf6"
+        },
+        "next": {
+          "path": "styles/coral_sky/v1/next.webp",
+          "bytes": 3126,
+          "sha256": "ae3a65d24fe72e900fd861022dacfd820ba66f431f17d93e92170ab7ccbdde5f"
+        },
+        "pause": {
+          "path": "styles/coral_sky/v1/pause.webp",
+          "bytes": 4782,
+          "sha256": "1d14a9c294ae7675c1e8be90f8c1de8531d7c83431d76c3b7fc9a79cb02a1935"
+        },
+        "play": {
+          "path": "styles/coral_sky/v1/play.webp",
+          "bytes": 4926,
+          "sha256": "42c355d5da6a59862962c77387df17bac35bf67cef56260af5de21b14503c7f2"
+        },
+        "preview": {
+          "path": "styles/coral_sky/v1/preview.png",
+          "bytes": 990042,
+          "sha256": "e479f33bc3ab57efd5dac1fd4f9fd8e4adcbc7e97887f400fb464cd51a0814e9"
+        },
+        "previous": {
+          "path": "styles/coral_sky/v1/previous.webp",
+          "bytes": 3098,
+          "sha256": "fba8f98e713ed1d0d411df750eb0084034a9fe18b07cddb4f9187eca72552696"
+        }
+      }
+    },
+    {
+      "id": "aqua_grid",
+      "name": "Aqua Grid",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 168.0,
+        "layeredBackground": false
+      },
+      "assets": {
+        "background": {
+          "path": "styles/aqua_grid/v1/background.webp",
+          "bytes": 58020,
+          "sha256": "525276eb04119e8670a18e6eadac514b2c164ecb908632c922ab143258c907f9"
+        },
+        "disc": {
+          "path": "styles/aqua_grid/v1/disc.webp",
+          "bytes": 102230,
+          "sha256": "c9db5c976f31ca5ee40833bed6b90e8958ce945361431133789814b689fd63bf"
+        },
+        "next": {
+          "path": "styles/aqua_grid/v1/next.webp",
+          "bytes": 2156,
+          "sha256": "dba37438e159f96b6dc26e14e43030b0ea1bf1dfe2069221be7e56c4b828cfac"
+        },
+        "pause": {
+          "path": "styles/aqua_grid/v1/pause.webp",
+          "bytes": 9042,
+          "sha256": "abc44c61d92f760be61cb611faddf711a1ee1c652b5b8d6eaecd97989c18adca"
+        },
+        "play": {
+          "path": "styles/aqua_grid/v1/play.webp",
+          "bytes": 9046,
+          "sha256": "ec5e22176b92850e5a3bf46a54e3d3b9198424c2a645c6645817516b30776198"
+        },
+        "preview": {
+          "path": "styles/aqua_grid/v1/preview.png",
+          "bytes": 1025467,
+          "sha256": "fe1e90c3166aa40946b69720fd4cad9ff93353c9fcc953d0447e56fe8e90324f"
+        },
+        "previous": {
+          "path": "styles/aqua_grid/v1/previous.webp",
+          "bytes": 2128,
+          "sha256": "abce76307f6f071b9eb97463968c80c107bd622606cb63d4b9620492dd87452f"
+        }
+      }
+    },
+    {
+      "id": "cybernetics",
+      "name": "Cybernetics",
+      "kind": "style",
+      "renderer": "static",
+      "category": "static",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background": {
+          "path": "styles/cybernetics/v1/background.webp",
+          "bytes": 111078,
+          "sha256": "4c83473c2fb11018d379eef46b941b90dd65ecd7b4e666bc59724849e2c1c606"
+        },
+        "next": {
+          "path": "styles/cybernetics/v1/next.webp",
+          "bytes": 2752,
+          "sha256": "16895c036a7ec97f94bc89b0b8c88186106efcaa79e3ab935daf0ec03cb46799"
+        },
+        "pause": {
+          "path": "styles/cybernetics/v1/pause.webp",
+          "bytes": 5698,
+          "sha256": "94f1068276f2f15dcc8f225484ed4a5e53ffeb1fad5a872221cd29bced5366b4"
+        },
+        "play": {
+          "path": "styles/cybernetics/v1/play.webp",
+          "bytes": 5720,
+          "sha256": "e4bff2bd5b1ccafbaa9e989e45338d178a6d39140915c20f526e7d5ef3ef0890"
+        },
+        "preview": {
+          "path": "styles/cybernetics/v1/preview.webp",
+          "bytes": 50692,
+          "sha256": "760e02a9e82dd487d61fce93be6315a56213df5ca29d4c68fbe3daa653f9513e"
+        },
+        "previous": {
+          "path": "styles/cybernetics/v1/previous.webp",
+          "bytes": 2722,
+          "sha256": "907bf5a79a7ea9941f4eca53dec6c272579545a978e743d9f18ec516a66e71e2"
+        }
+      }
+    },
+    {
+      "id": "guitar_girl",
+      "name": "Guitar Girl",
+      "kind": "style",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background_video": {
+          "path": "styles/guitar_girl/v1/background_video.mp4",
+          "bytes": 1256404,
+          "sha256": "b7f27554a62a2534571aea898ff212e7d94b05eb8d174a1484e11740eda6b8c3"
+        },
+        "next": {
+          "path": "styles/guitar_girl/v1/next.webp",
+          "bytes": 3322,
+          "sha256": "071dcb6e4bd3e34b9960894cb3aa601600e6a08e804c99b54afe7f12b6b7d371"
+        },
+        "pause": {
+          "path": "styles/guitar_girl/v1/pause.webp",
+          "bytes": 9128,
+          "sha256": "3e98f097b54789e91ee28df0ef069e2533e4b960cb77e316d9a5706a2750b6f0"
+        },
+        "play": {
+          "path": "styles/guitar_girl/v1/play.webp",
+          "bytes": 9444,
+          "sha256": "1ccdfcd21edb3a3b1539c0428d1bbb5ad8f1cd6a7d92987e31e6bf034b259378"
+        },
+        "preview": {
+          "path": "styles/guitar_girl/v1/preview.webp",
+          "bytes": 55208,
+          "sha256": "59da244ac2e224ec3c8b08ed73bc6eeeb35c1bd257f90eeff281cabffd21abb9"
+        },
+        "previous": {
+          "path": "styles/guitar_girl/v1/previous.webp",
+          "bytes": 3324,
+          "sha256": "2de592655537ecaaa93e6a296e2c3fcf46ad99197188d4898e0157adc36d8d56"
+        }
+      }
+    },
+    {
+      "id": "kitty_spin",
+      "name": "Kitty Spin",
+      "kind": "style",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background_video": {
+          "path": "styles/kitty_spin/v1/background_video.mp4",
+          "bytes": 488835,
+          "sha256": "9bbcbf72c10224ea2a739f3c1748d9b75179036afdb68b2a8c4bf388d68e652f"
+        },
+        "next": {
+          "path": "styles/kitty_spin/v1/next.webp",
+          "bytes": 1576,
+          "sha256": "d355bbe67742794b65f0868cdf6d1ce3f54ea1033399ec87ee96df454cd2a260"
+        },
+        "pause": {
+          "path": "styles/kitty_spin/v1/pause.webp",
+          "bytes": 2480,
+          "sha256": "9856bf9dc2321567cde797a35140daf3ccb58533a43fb4956a7ff7492ac9f251"
+        },
+        "play": {
+          "path": "styles/kitty_spin/v1/play.webp",
+          "bytes": 2632,
+          "sha256": "31c36177535edc6bb2bb45c9d1dddc4d2b0d9a031b768f9c3b1ae705e576e436"
+        },
+        "preview": {
+          "path": "styles/kitty_spin/v1/preview.webp",
+          "bytes": 158624,
+          "sha256": "8f38551fe168a7968c3354ba220068bd74763575f3238f5854e636fd3b53612d"
+        },
+        "previous": {
+          "path": "styles/kitty_spin/v1/previous.webp",
+          "bytes": 1570,
+          "sha256": "916c88c7858b4bce8c8accdb30577393cd4fcae66fa0716f298af8f558302807"
+        }
+      }
+    },
+    {
+      "id": "cityscape",
+      "name": "Cityscape",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 168.0,
+        "layeredBackground": false
+      },
+      "assets": {
+        "background": {
+          "path": "styles/cityscape/v1/background.webp",
+          "bytes": 56236,
+          "sha256": "0ad2768cf13faea036ebc8cd1b3f1618fd43de9e356957db85b80fc62babc8bd"
+        },
+        "disc": {
+          "path": "styles/cityscape/v1/disc.webp",
+          "bytes": 47568,
+          "sha256": "e1335a7422b18f8d820e700870057a3ce7328e2bed5e3719bd8c2b8e2975999b"
+        },
+        "next": {
+          "path": "styles/cityscape/v1/next.webp",
+          "bytes": 4446,
+          "sha256": "475de0f8842eed68fbc169e9ffbd732c90213bfc2da25d0f5c21cc814f85bc2f"
+        },
+        "pause": {
+          "path": "styles/cityscape/v1/pause.webp",
+          "bytes": 6652,
+          "sha256": "85b34c2241cbb56b0ebc463e5803bbd8b486b8516f60b72748a406005d492ccf"
+        },
+        "play": {
+          "path": "styles/cityscape/v1/play.webp",
+          "bytes": 7030,
+          "sha256": "73efe5283be19cbb7d8a50a9d73275571b6f103aca5cc0e9888015e1ea149ff5"
+        },
+        "preview": {
+          "path": "styles/cityscape/v1/preview.png",
+          "bytes": 1038495,
+          "sha256": "2cb3e250ab60016d1fb8ea838f0c2712667450907be317c37f71362577efd7f4"
+        },
+        "previous": {
+          "path": "styles/cityscape/v1/previous.webp",
+          "bytes": 4418,
+          "sha256": "62c1369b1c0cffbe7dd4bcf56e9382e83eec1aa1408195eedadd4972d0b7557e"
+        }
+      }
+    },
+    {
+      "id": "lavender_field",
+      "name": "Lavender Field",
+      "kind": "style",
+      "renderer": "static",
+      "category": "static",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background": {
+          "path": "styles/lavender_field/v1/background.webp",
+          "bytes": 195012,
+          "sha256": "cf367470f26d8ca265483b5fa6172483232c15594f0b3b52f3ee26c20869fd28"
+        },
+        "next": {
+          "path": "styles/lavender_field/v1/next.webp",
+          "bytes": 2342,
+          "sha256": "88913470bb90ad13e9a2d5b5a7f3ff0712adb4b70f0d8efdd3af1137379d147e"
+        },
+        "pause": {
+          "path": "styles/lavender_field/v1/pause.webp",
+          "bytes": 4072,
+          "sha256": "1430d7abc4b75a34348e5b58fa78f40770c8a24a3ef239cdd137317b721d79a2"
+        },
+        "play": {
+          "path": "styles/lavender_field/v1/play.webp",
+          "bytes": 4084,
+          "sha256": "48257de6d600ba5631318a5ecd6a78b8e3a2f2e42f295fdc3cb37e208a2499f9"
+        },
+        "preview": {
+          "path": "styles/lavender_field/v1/preview.webp",
+          "bytes": 59194,
+          "sha256": "58cb41b9cc74815ecdeae5a4ad642628aaaa4941e5e0a54409cf5572b43050ca"
+        },
+        "previous": {
+          "path": "styles/lavender_field/v1/previous.webp",
+          "bytes": 2324,
+          "sha256": "9ab188ca56abcf12ef2849004f87929a9c9de6d6ac280e84e1c116fa30b1473d"
+        }
+      }
+    },
+    {
+      "id": "music_lab",
+      "name": "Music Lab",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 168.0,
+        "layeredBackground": false
+      },
+      "assets": {
+        "background": {
+          "path": "styles/music_lab/v1/background.webp",
+          "bytes": 242190,
+          "sha256": "99af7cf50c1a4619f907c08d573c861252eb6794cc40b36f9645b489e983e759"
+        },
+        "disc": {
+          "path": "styles/music_lab/v1/disc.webp",
+          "bytes": 79564,
+          "sha256": "90a12be18d1eb074c9175d4ed5c061ae1d400ecbf039de313c15213d3f86a137"
+        },
+        "next": {
+          "path": "styles/music_lab/v1/next.webp",
+          "bytes": 2792,
+          "sha256": "daed55f0f271f43b83298f9aad1eab8dbd894be4b7301cebb0cc4296f191176c"
+        },
+        "pause": {
+          "path": "styles/music_lab/v1/pause.webp",
+          "bytes": 6218,
+          "sha256": "3aad98da9a5a119331327b1ad869fc14cfdffeb91709b513f398ce138c067a5d"
+        },
+        "play": {
+          "path": "styles/music_lab/v1/play.webp",
+          "bytes": 6336,
+          "sha256": "fca18105d33be7fdbf519c01d509beb1bc7d007b3bc908a0b286838eeeb68e26"
+        },
+        "preview": {
+          "path": "styles/music_lab/v1/preview.png",
+          "bytes": 2332802,
+          "sha256": "af9faa6e8152bf5bf5df7c2e3989d60c0cdeecb5bd6dc10dba7b884996837bba"
+        },
+        "previous": {
+          "path": "styles/music_lab/v1/previous.webp",
+          "bytes": 2784,
+          "sha256": "f4e88e90ea8bcce53a3ef174929b8bdcb3f36db5656c3415d413fd69d1e2d33a"
+        }
+      }
+    },
+    {
+      "id": "embrace_music",
+      "name": "Embrace Music",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 168.0,
+        "layeredBackground": false
+      },
+      "assets": {
+        "background": {
+          "path": "styles/embrace_music/v1/background.webp",
+          "bytes": 95662,
+          "sha256": "5c9c13b12db2dec415dd19ece00ab6d2827acfaf6f604e9de901f208114ed495"
+        },
+        "disc": {
+          "path": "styles/embrace_music/v1/disc.webp",
+          "bytes": 64544,
+          "sha256": "57ba4034755a4fb95b77d9513871d48836c968c91485fa02d1c944bdfa80a708"
+        },
+        "next": {
+          "path": "styles/embrace_music/v1/next.webp",
+          "bytes": 2306,
+          "sha256": "05b00ab322c8d693d929a8628e2e5447bd6cfe8874e81be28499cdeccf2cbf6e"
+        },
+        "pause": {
+          "path": "styles/embrace_music/v1/pause.webp",
+          "bytes": 3388,
+          "sha256": "e6d7b3a6e18fd799905fefa45eae072f5f148fa047baee6abae8000d82bdf789"
+        },
+        "play": {
+          "path": "styles/embrace_music/v1/play.webp",
+          "bytes": 3650,
+          "sha256": "109e973e33af8a5b6d770c7060beb6f9f4e7caeab8ee6e912f8d61a25bef8ec2"
+        },
+        "preview": {
+          "path": "styles/embrace_music/v1/preview.png",
+          "bytes": 1529133,
+          "sha256": "8d38d968e39218bdc159d44fe8c34dff200b2b23714c19ee591192b1b35a58a1"
+        },
+        "previous": {
+          "path": "styles/embrace_music/v1/previous.webp",
+          "bytes": 1804,
+          "sha256": "c0759bece7b45ff82a9a17832f0e78b0ab592b54a553ce62854e4d8b253ad766"
+        }
+      }
+    },
+    {
+      "id": "dreamy_guitar",
+      "name": "Dreamy Guitar",
+      "kind": "style",
+      "renderer": "static",
+      "category": "static",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background": {
+          "path": "styles/dreamy_guitar/v1/background.webp",
+          "bytes": 50130,
+          "sha256": "6b6e405d5311b6be041a6a5df308b788b9cae73a2e7164e5aa73463fdc642cc1"
+        },
+        "next": {
+          "path": "styles/dreamy_guitar/v1/next.webp",
+          "bytes": 3224,
+          "sha256": "3d8800dc29c40b6980846dbbb8ceb32e7997b0f4202dc35781f5b6b81981458b"
+        },
+        "pause": {
+          "path": "styles/dreamy_guitar/v1/pause.webp",
+          "bytes": 6424,
+          "sha256": "82bc5baeefde158e80d2fcd1539170fae684db133f6a05d9a06d28048f4accd5"
+        },
+        "play": {
+          "path": "styles/dreamy_guitar/v1/play.webp",
+          "bytes": 6630,
+          "sha256": "f262dbab649bca0369afea1ae5b855ea6b86439236792847b4418807be1093c5"
+        },
+        "preview": {
+          "path": "styles/dreamy_guitar/v1/preview.webp",
+          "bytes": 30028,
+          "sha256": "673a868923e6a4ce2f87d6a98b3bdb28aba7f66da73fc40ad65b5f45b810141c"
+        },
+        "previous": {
+          "path": "styles/dreamy_guitar/v1/previous.webp",
+          "bytes": 3036,
+          "sha256": "ee4a17e93b3cf1b9e023db8950f3556e6b15d79623b2cc550ddc9126113bb1f9"
+        }
+      }
+    },
+    {
+      "id": "lunar_vinyl",
+      "name": "Lunar Vinyl",
+      "kind": "style",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background_video": {
+          "path": "styles/lunar_vinyl/v1/background_video.mp4",
+          "bytes": 736772,
+          "sha256": "7636722996ce7c5086889590e9de04074981ef472ca46f220a71b04dd53b07a6"
+        },
+        "next": {
+          "path": "styles/lunar_vinyl/v1/next.webp",
+          "bytes": 3324,
+          "sha256": "2eb135ed7312e4547f6d5d89fab834b48e2cbf230ad890292996ccab7138cc8c"
+        },
+        "pause": {
+          "path": "styles/lunar_vinyl/v1/pause.webp",
+          "bytes": 9806,
+          "sha256": "22e3ccfba02411f9d63a4dfea1d4988d2c5f23665db75cfe67b99a793a1e0c67"
+        },
+        "play": {
+          "path": "styles/lunar_vinyl/v1/play.webp",
+          "bytes": 10256,
+          "sha256": "ae7dc11f89ca8961160b5d87b5dc8a11b75b7316692bf2387d8f1d6787b7af5a"
+        },
+        "preview": {
+          "path": "styles/lunar_vinyl/v1/preview.webp",
+          "bytes": 134162,
+          "sha256": "15b20caf6490097d6c357ed9626c14ef26447c4bcd4f42d692c2a1495751e18d"
+        },
+        "previous": {
+          "path": "styles/lunar_vinyl/v1/previous.webp",
+          "bytes": 3312,
+          "sha256": "0729b8947b5ecda6e7cfcfb664b6f2679eeafd5712087ec4a2004ac7ab06cb98"
+        }
+      }
+    },
+    {
+      "id": "sonic_boom",
+      "name": "Sonic Boom",
+      "kind": "style",
+      "renderer": "vinyl",
+      "category": "vinyl",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "rotationX": 40.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleX": 1.3,
+        "scaleY": 1.0,
+        "translationX": 0.0,
+        "translationY": -0.01,
+        "coverSize": 80.0
+      },
+      "assets": {
+        "background": {
+          "path": "styles/sonic_boom/v1/background.webp",
+          "bytes": 125214,
+          "sha256": "00e2fef096a26dbfd30fdb61adc6ec5f800bab672a532cd8f4aa255d550b5843"
+        },
+        "disc": {
+          "path": "styles/sonic_boom/v1/disc.webp",
+          "bytes": 55358,
+          "sha256": "00a0b7c5781035f4b9f73f746e64ea7e795ee16493ddf5f4c7fab3e464acd4a1"
+        },
+        "next": {
+          "path": "styles/sonic_boom/v1/next.webp",
+          "bytes": 4664,
+          "sha256": "2e6537b0204f3ee3764fd856d97ddc436e47e8520d9f2680c688002700f8fddb"
+        },
+        "pause": {
+          "path": "styles/sonic_boom/v1/pause.webp",
+          "bytes": 4696,
+          "sha256": "d63c08684aec701d98d66b1d0e19ba1912c0c54a45082f4208d423aa735a4595"
+        },
+        "play": {
+          "path": "styles/sonic_boom/v1/play.webp",
+          "bytes": 7842,
+          "sha256": "75feaaeaa4db1f6a46cde40a501a21aab26648fd1724b8a52944bf595f31a291"
+        },
+        "preview": {
+          "path": "styles/sonic_boom/v1/preview.png",
+          "bytes": 1982796,
+          "sha256": "a15bb787805d5abb1ab9d2664296bbca07cee79271f6996caf40856320b10f52"
+        },
+        "previous": {
+          "path": "styles/sonic_boom/v1/previous.webp",
+          "bytes": 4480,
+          "sha256": "d41a3774fafec50a69be203b37788133dfa95fb28ff23f3b0876826bf02f24d6"
+        }
+      }
+    },
+    {
+      "id": "deep_space",
+      "name": "Deep Space",
+      "kind": "style",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background_video": {
+          "path": "styles/deep_space/v1/background_video.mp4",
+          "bytes": 929724,
+          "sha256": "7501542281ef08ceacca17465bb2bf344a6011b39e3245dc14c0c4d3c7ecaa7a"
+        },
+        "next": {
+          "path": "styles/deep_space/v1/next.webp",
+          "bytes": 3476,
+          "sha256": "cb0da806a856b5e339c4914f45d30a12b769e371d9efffa350e748f6099af47b"
+        },
+        "pause": {
+          "path": "styles/deep_space/v1/pause.webp",
+          "bytes": 3172,
+          "sha256": "198383946d7cb3e995b51ac1e84a22c4e21083065f85fd6d6f2643d542b42fe9"
+        },
+        "play": {
+          "path": "styles/deep_space/v1/play.webp",
+          "bytes": 5466,
+          "sha256": "fa430bc35e98c36017d1bbb60d5a9e968982f7e9af9d224c0b94226b65381787"
+        },
+        "preview": {
+          "path": "styles/deep_space/v1/preview.webp",
+          "bytes": 105630,
+          "sha256": "cabab66c36f37865143effc6fa0b36cff2a532ded380ca382a99728162dddcab"
+        },
+        "previous": {
+          "path": "styles/deep_space/v1/previous.webp",
+          "bytes": 3414,
+          "sha256": "4aacfebe1a998c38aa07b9f8ab5870b4bc480bc6d2a6e2f5e0b1fa3dbbc9ee71"
+        }
+      }
+    },
+    {
+      "id": "music_planet",
+      "name": "Music Planet",
+      "kind": "style",
+      "renderer": "vinyl",
+      "category": "vinyl",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "rotationX": 20.0,
+        "rotationY": -10.0,
+        "rotationZ": -10.0,
+        "scaleX": 1.63,
+        "scaleY": 1.0,
+        "translationX": 0.0,
+        "translationY": 0.05,
+        "coverSize": 80.0
+      },
+      "assets": {
+        "background": {
+          "path": "styles/music_planet/v1/background.webp",
+          "bytes": 110206,
+          "sha256": "a548046d935d2baf8c7f7f628076fceffe9b8767a0dd30ebe76d53ceaf742742"
+        },
+        "disc": {
+          "path": "styles/music_planet/v1/disc.webp",
+          "bytes": 55028,
+          "sha256": "12066a318d0044f7a0b6ca0bfd3217546d88b2c5d424f0d78e4c947d5ffa292f"
+        },
+        "next": {
+          "path": "styles/music_planet/v1/next.webp",
+          "bytes": 3558,
+          "sha256": "db80b209c16971907b2303b31f8b36a084d3009138fa35c8bf0772a41534fe80"
+        },
+        "pause": {
+          "path": "styles/music_planet/v1/pause.webp",
+          "bytes": 7628,
+          "sha256": "2f79d5536b83cec011a09bb89f13c3f5a4d3be941e9d5e0326735e30f2eac42a"
+        },
+        "play": {
+          "path": "styles/music_planet/v1/play.webp",
+          "bytes": 8068,
+          "sha256": "104644293e44b85382edbe1423be71ec197621b5cbeccc218fd909b209e73ee9"
+        },
+        "preview": {
+          "path": "styles/music_planet/v1/preview.png",
+          "bytes": 1757137,
+          "sha256": "0877925cf4e6ae8efc235b24e241b1bbfc96a81d085b857a53d419fe2328e2d1"
+        },
+        "previous": {
+          "path": "styles/music_planet/v1/previous.webp",
+          "bytes": 3776,
+          "sha256": "c23e98d0417fe1e4e81075ecb62fe70fac3a54550bdc5462f4c678525f9474b6"
+        }
+      }
+    },
+    {
+      "id": "starlight_city",
+      "name": "Starlight City",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 168.0,
+        "layeredBackground": true
+      },
+      "assets": {
+        "background": {
+          "path": "styles/starlight_city/v1/background.webp",
+          "bytes": 55268,
+          "sha256": "c0d14cb676b2861ba570192c7d69e4ecebfb4860850f960434a5ce62c3209ca9"
+        },
+        "background_overlay": {
+          "path": "styles/starlight_city/v1/background_overlay.webp",
+          "bytes": 56814,
+          "sha256": "8aae021fc19f179644068bb905d9d45343c655c7dd2a231ec04ac9b851e1aace"
+        },
+        "disc": {
+          "path": "styles/starlight_city/v1/disc.webp",
+          "bytes": 53976,
+          "sha256": "0de6f9ddcf54c6ade227417b3f75a83c1d7c8c1af2c53297c780e04a2c5f9879"
+        },
+        "next": {
+          "path": "styles/starlight_city/v1/next.webp",
+          "bytes": 2666,
+          "sha256": "12f23a3ad0319239f2066d771b2056adf63ca7052361c95dc30bebef725e24c5"
+        },
+        "pause": {
+          "path": "styles/starlight_city/v1/pause.webp",
+          "bytes": 4604,
+          "sha256": "7415ca7bdb179b2868fa43c4bd17740ac946bd24701a8e45a01a4b3b4eacb6f6"
+        },
+        "play": {
+          "path": "styles/starlight_city/v1/play.webp",
+          "bytes": 4796,
+          "sha256": "4e9427996b5773802f9e56757a259feaf8a57167e14f8613048b25f7bea5363b"
+        },
+        "preview": {
+          "path": "styles/starlight_city/v1/preview.png",
+          "bytes": 2154507,
+          "sha256": "0e693ffcaa1b9394567d2776d8cffa51541690eb32a26fcf0b7001785a5a9b1a"
+        },
+        "previous": {
+          "path": "styles/starlight_city/v1/previous.webp",
+          "bytes": 2632,
+          "sha256": "ec14d5c6ea97eb245e40d54785e98526579af72fb6be98cf14b76d74058323b5"
+        }
+      }
+    },
+    {
+      "id": "vinyl_sunset",
+      "name": "Vinyl Sunset",
+      "kind": "style",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background_video": {
+          "path": "styles/vinyl_sunset/v1/background_video.mp4",
+          "bytes": 509534,
+          "sha256": "52e7b5811a18328ba773be3ab7f30342d446d3ee10a2eefba3df37ed030418a4"
+        },
+        "next": {
+          "path": "styles/vinyl_sunset/v1/next.webp",
+          "bytes": 2504,
+          "sha256": "c328060896244609a89a2e9d70004909541eedc026b6639caddc6db59d52a5e5"
+        },
+        "pause": {
+          "path": "styles/vinyl_sunset/v1/pause.webp",
+          "bytes": 4844,
+          "sha256": "cdb5f0088d40d1a80e0ca23a10aca9fb23f144209cdfa3dd4c8dc43df4725c7a"
+        },
+        "play": {
+          "path": "styles/vinyl_sunset/v1/play.webp",
+          "bytes": 4942,
+          "sha256": "72340581f3202d4e0b7cbd716f812d34841cf8f7900892e04c630518c421af47"
+        },
+        "preview": {
+          "path": "styles/vinyl_sunset/v1/preview.webp",
+          "bytes": 37938,
+          "sha256": "c4bbfc307f082288ca0e7d5bc438c330b320d282469951d2ff66c69423d3f8bf"
+        },
+        "previous": {
+          "path": "styles/vinyl_sunset/v1/previous.webp",
+          "bytes": 2522,
+          "sha256": "e244df00d05849a8465c7e67e1255dc160c6092faec2c3fb817a66e21fc41e7d"
+        }
+      }
+    },
+    {
+      "id": "crimson_moon",
+      "name": "Crimson Moon",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 168.0,
+        "layeredBackground": false
+      },
+      "assets": {
+        "background": {
+          "path": "styles/crimson_moon/v1/background.webp",
+          "bytes": 131114,
+          "sha256": "7c72ee6f198ecd5f868ea9b674e16e0a54e4baa66b4bb589e9d98eb0f2b20399"
+        },
+        "disc": {
+          "path": "styles/crimson_moon/v1/disc.webp",
+          "bytes": 163006,
+          "sha256": "7644a45bd8ff35e6f9388341d289c285601fd594ed637be25b40f6cbf1b4833f"
+        },
+        "next": {
+          "path": "styles/crimson_moon/v1/next.webp",
+          "bytes": 4194,
+          "sha256": "e4b06b109b2e1786effb77b35508d150e4baa545822cf1a25a5af7f7b7a6e8f8"
+        },
+        "pause": {
+          "path": "styles/crimson_moon/v1/pause.webp",
+          "bytes": 7742,
+          "sha256": "ec06de9c9f9062e4e3f9f344fecf845dc57af11cafa61bea7be320500f47ca11"
+        },
+        "play": {
+          "path": "styles/crimson_moon/v1/play.webp",
+          "bytes": 7898,
+          "sha256": "5b89362dfbcd0f97cee0721c1749948420d5b58ab6807ce9d78b6c13f2a2f35e"
+        },
+        "preview": {
+          "path": "styles/crimson_moon/v1/preview.png",
+          "bytes": 1891566,
+          "sha256": "c3092c7eb4c715cccb893d3af1563ff46c48922143e64c1b86906d62ca1af858"
+        },
+        "previous": {
+          "path": "styles/crimson_moon/v1/previous.webp",
+          "bytes": 4222,
+          "sha256": "aff05e5103ebabfc424ecc0279dd0885032cf5fa0c7c171bdbf9a0f204f7fd5f"
+        }
+      }
+    },
+    {
+      "id": "electric_night",
+      "name": "Electric Night",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 168.0,
+        "layeredBackground": false
+      },
+      "assets": {
+        "background": {
+          "path": "styles/electric_night/v1/background.webp",
+          "bytes": 67952,
+          "sha256": "e9bbbb43bea2843b2c5e0e291003c5301dd441498dee61ca24419bd431870895"
+        },
+        "disc": {
+          "path": "styles/electric_night/v1/disc.webp",
+          "bytes": 106714,
+          "sha256": "5c64347cec9fb08e48808bb085f90e063094cd15eddb5a7b0b293424a3880fba"
+        },
+        "next": {
+          "path": "styles/electric_night/v1/next.webp",
+          "bytes": 5798,
+          "sha256": "c12ca300282be36b0acff85205f7f07c2a4cc3b8bbed78f38f964b7dc48f44f8"
+        },
+        "pause": {
+          "path": "styles/electric_night/v1/pause.webp",
+          "bytes": 5082,
+          "sha256": "db1bca45a9bf519def4b294a45213668c7da76fe5701e7b205cf567e9a9268eb"
+        },
+        "play": {
+          "path": "styles/electric_night/v1/play.webp",
+          "bytes": 4830,
+          "sha256": "adacf26513a67013ef187b8b3925718f4a4e5f01a8df19f37a9332fcc5cb7456"
+        },
+        "preview": {
+          "path": "styles/electric_night/v1/preview.png",
+          "bytes": 2039890,
+          "sha256": "9650779d086611ca7bda5ab137228c8281ab370b936ca9b849c97ee0f32ab3ec"
+        },
+        "previous": {
+          "path": "styles/electric_night/v1/previous.webp",
+          "bytes": 5780,
+          "sha256": "249b57d8ddf43dea0eda7a0d4ed94162d1816b73e0030dfa226d643b97c8278d"
+        }
+      }
+    },
+    {
+      "id": "pumpkin_spell",
+      "name": "Pumpkin Spell",
+      "kind": "style",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background_video": {
+          "path": "styles/pumpkin_spell/v1/background_video.mp4",
+          "bytes": 810377,
+          "sha256": "fd04b5f9f5e56fb4f19d92e753f0232cd85f41e6e74b9083900e2feee216492b"
+        },
+        "next": {
+          "path": "styles/pumpkin_spell/v1/next.webp",
+          "bytes": 3238,
+          "sha256": "07e1d7bc15a152463ab999d9cd862a614ce6081c791adae0faa59cb89d17ff78"
+        },
+        "pause": {
+          "path": "styles/pumpkin_spell/v1/pause.webp",
+          "bytes": 6490,
+          "sha256": "9d84ad6383f271a25b0bd99c59232651c2ce37f433e7b40fbc311a3af5222385"
+        },
+        "play": {
+          "path": "styles/pumpkin_spell/v1/play.webp",
+          "bytes": 6684,
+          "sha256": "4170786cee5bdf3effb7bb8b201e43de5004511bc16cad16c4b15c17702ae5f3"
+        },
+        "preview": {
+          "path": "styles/pumpkin_spell/v1/preview.webp",
+          "bytes": 62814,
+          "sha256": "26f7d63696ee5626bb4ef83ced98e7e283eb5a8fbf949510cad98f6efdd8e936"
+        },
+        "previous": {
+          "path": "styles/pumpkin_spell/v1/previous.webp",
+          "bytes": 3286,
+          "sha256": "22c3bcabcf4ae790663e2cd2afa79bf635c5f7670f5a5525ef94b141941405ac"
+        }
+      }
+    },
+    {
+      "id": "trick_or_treat",
+      "name": "Trick or Treat",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 204.0,
+        "layeredBackground": false
+      },
+      "assets": {
+        "background": {
+          "path": "styles/trick_or_treat/v1/background.webp",
+          "bytes": 9954,
+          "sha256": "1462ad1bb3dc54fff4e3d38c7bb5351395002ea3f858d70dd2b2108907d30e7c"
+        },
+        "disc": {
+          "path": "styles/trick_or_treat/v1/disc.webp",
+          "bytes": 122908,
+          "sha256": "89aa00b9ed7dccd88b96da7dbdfdd45f6178b3f5d5eafed1eba4f9aae5c06d2a"
+        },
+        "next": {
+          "path": "styles/trick_or_treat/v1/next.webp",
+          "bytes": 4666,
+          "sha256": "d0710cf18338ae4ee474503bbcec7b1b1126f6626b533f888e2ba3a6c17feec8"
+        },
+        "pause": {
+          "path": "styles/trick_or_treat/v1/pause.webp",
+          "bytes": 7110,
+          "sha256": "7cc43a34b9f7d69860911ea735aa53c197ebddf28ef2bed0584de711e519c647"
+        },
+        "play": {
+          "path": "styles/trick_or_treat/v1/play.webp",
+          "bytes": 7328,
+          "sha256": "f859f79eeeeffd8b9ea6a72029f975e3a335bc61da706b28d3719509c2ec9548"
+        },
+        "preview": {
+          "path": "styles/trick_or_treat/v1/preview.png",
+          "bytes": 592294,
+          "sha256": "5573fc337dd3d1eb1b56c6fe763298788fc3dbd0d23ea7f0435a4fc3c0a60b0b"
+        },
+        "previous": {
+          "path": "styles/trick_or_treat/v1/previous.webp",
+          "bytes": 4682,
+          "sha256": "d7411e865a897e683dee4c560a59079649c08fb93a0440defc516c4c6d40a068"
+        }
+      }
+    },
+    {
+      "id": "pumpkin_patch",
+      "name": "Pumpkin Patch",
+      "kind": "style",
+      "renderer": "static",
+      "category": "static",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background": {
+          "path": "styles/pumpkin_patch/v1/background.webp",
+          "bytes": 103902,
+          "sha256": "bf39bb4f33276ee55f98e81fd47158bb5c137f849d0d5af9838c0d6785c85d5f"
+        },
+        "next": {
+          "path": "styles/pumpkin_patch/v1/next.webp",
+          "bytes": 8196,
+          "sha256": "9289d788e51163dcfc248e2c551e0f021dfd755ad03cd7a55e0841304204f43d"
+        },
+        "pause": {
+          "path": "styles/pumpkin_patch/v1/pause.webp",
+          "bytes": 16742,
+          "sha256": "88ee4f5ccae2e7f1ca6cee26e5c717004efd3f4b8f52ff63fc29b202fced1368"
+        },
+        "play": {
+          "path": "styles/pumpkin_patch/v1/play.webp",
+          "bytes": 16892,
+          "sha256": "ab9cb32073417c2c7636a558ff001129cf206f8da04a07e8dc0aa9c68bf332f6"
+        },
+        "preview": {
+          "path": "styles/pumpkin_patch/v1/preview.webp",
+          "bytes": 64440,
+          "sha256": "7902f8311b1161a42a54e40f94f68e194ec03eb630dddc17c2448eae2c3442d6"
+        },
+        "previous": {
+          "path": "styles/pumpkin_patch/v1/previous.webp",
+          "bytes": 8166,
+          "sha256": "3bab6011b26e82d563f7c607c4b048dfc9b4c3d717b828697a37891511d6b6ac"
+        }
+      }
+    },
+    {
+      "id": "pumpkin_princess",
+      "name": "Pumpkin Princess",
+      "kind": "style",
+      "renderer": "static",
+      "category": "static",
+      "version": 1,
+      "parameters": {
+        "showCover": false,
+        "coverShape": "circle"
+      },
+      "assets": {
+        "background": {
+          "path": "styles/pumpkin_princess/v1/background.webp",
+          "bytes": 124588,
+          "sha256": "bbba90ef341325595166a77e64495d7a1ca7776824f439ed31117fb4e459db14"
+        },
+        "next": {
+          "path": "styles/pumpkin_princess/v1/next.webp",
+          "bytes": 616,
+          "sha256": "f3238b784bbd4c87894e3af4920613328f285b8cd6d4618a2882590519c25154"
+        },
+        "pause": {
+          "path": "styles/pumpkin_princess/v1/pause.webp",
+          "bytes": 3148,
+          "sha256": "5c960eebb25db10bc9a06fd786d1ecd20d08ed417b53a5ee6c751d08cb101845"
+        },
+        "play": {
+          "path": "styles/pumpkin_princess/v1/play.webp",
+          "bytes": 3140,
+          "sha256": "49258b087bdd32a9dab373b768bcdd5b4334681bd35bcc92945d7abc11eaa01c"
+        },
+        "preview": {
+          "path": "styles/pumpkin_princess/v1/preview.webp",
+          "bytes": 72070,
+          "sha256": "d55870f6583d70f37ab2e19dae4bf731ebf3c097aac0baad3ad3e1fd47edae01"
+        },
+        "previous": {
+          "path": "styles/pumpkin_princess/v1/previous.webp",
+          "bytes": 620,
+          "sha256": "f66a3c9423f3853bf901e68b3061ca67c5ebccb907349efbd7ef2e9993effc56"
+        }
+      }
+    },
+    {
+      "id": "midnight_mischief",
+      "name": "Midnight Mischief",
+      "kind": "style",
+      "renderer": "round",
+      "category": "round",
+      "version": 1,
+      "parameters": {
+        "showCover": true,
+        "coverShape": "circle",
+        "topPercent": 0.1,
+        "coverSize": 140.0,
+        "layeredBackground": true
+      },
+      "assets": {
+        "background": {
+          "path": "styles/midnight_mischief/v1/background.webp",
+          "bytes": 42826,
+          "sha256": "c3078b5c4f17a9a2d860d49f277ef3a5345a5808b65ccc35d62ba2bdc1f3c943"
+        },
+        "background_overlay": {
+          "path": "styles/midnight_mischief/v1/background_overlay.webp",
+          "bytes": 72822,
+          "sha256": "a5508014490fad53ef4f7a6b947e57e63d64348ab875b7ce88cabe8df08d6ed3"
+        },
+        "disc": {
+          "path": "styles/midnight_mischief/v1/disc.webp",
+          "bytes": 69260,
+          "sha256": "77e4af8b5bded725b9ac73ded2b8521263933f601f29927c47ede290a5b194e9"
+        },
+        "next": {
+          "path": "styles/midnight_mischief/v1/next.webp",
+          "bytes": 3108,
+          "sha256": "a8500dcdc44a8c5f9a60c883c6459ed8aaabdaa84b0fb5542aa4a99bcd1ca7d5"
+        },
+        "pause": {
+          "path": "styles/midnight_mischief/v1/pause.webp",
+          "bytes": 4658,
+          "sha256": "90bc91a54df48150e1857c1781b9f85269ea9c9f44ae11850db5053211c053eb"
+        },
+        "play": {
+          "path": "styles/midnight_mischief/v1/play.webp",
+          "bytes": 4854,
+          "sha256": "843695cf1e9064cf8c540c813a33673e6bc7af74fedc1742a0b0391387829df0"
+        },
+        "preview": {
+          "path": "styles/midnight_mischief/v1/preview.png",
+          "bytes": 758172,
+          "sha256": "a0c6bbaec64504b3d88fb1d5295c5c1d4cca61b3d0f50fdf10d8d8c15a9ab176"
+        },
+        "previous": {
+          "path": "styles/midnight_mischief/v1/previous.webp",
+          "bytes": 3128,
+          "sha256": "7002fb4eebcd95d7f44419964899a6cb05e6e09775b703c8f6337e7fda7c1f03"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_01",
+      "name": "Wallpaper 01",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_01/v1/background.png",
+          "bytes": 1758165,
+          "sha256": "181861da97a724e704cf0a03e5aa24ee1d782c614264c8be9fa4274f44d78a00"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_01/v1/background.png",
+          "bytes": 1758165,
+          "sha256": "181861da97a724e704cf0a03e5aa24ee1d782c614264c8be9fa4274f44d78a00"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_02",
+      "name": "Wallpaper 02",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_02/v1/background.png",
+          "bytes": 3431325,
+          "sha256": "753ac689b19ef0aa8a589c075ef5191c40ddb10d51027ff1a1a53a3ca44e3730"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_02/v1/background.png",
+          "bytes": 3431325,
+          "sha256": "753ac689b19ef0aa8a589c075ef5191c40ddb10d51027ff1a1a53a3ca44e3730"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_03",
+      "name": "Wallpaper 03",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_03/v1/background.png",
+          "bytes": 1464116,
+          "sha256": "e5e4a20376fc53598e8fbca810fd9d3325d0af77c0476d16b577ae6f9b8e229d"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_03/v1/background.png",
+          "bytes": 1464116,
+          "sha256": "e5e4a20376fc53598e8fbca810fd9d3325d0af77c0476d16b577ae6f9b8e229d"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_04",
+      "name": "Wallpaper 04",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_04/v1/background.png",
+          "bytes": 3041014,
+          "sha256": "e3158f3be898d568db2418cd424afec50f5917964cb459cef3e3ff1b2e23dcee"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_04/v1/background.png",
+          "bytes": 3041014,
+          "sha256": "e3158f3be898d568db2418cd424afec50f5917964cb459cef3e3ff1b2e23dcee"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_05",
+      "name": "Wallpaper 05",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_05/v1/background.png",
+          "bytes": 6275711,
+          "sha256": "3e5a11ca6d881d1363f3fda76b38074644c3bf8f3478496c4fe270b6f6949755"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_05/v1/background.png",
+          "bytes": 6275711,
+          "sha256": "3e5a11ca6d881d1363f3fda76b38074644c3bf8f3478496c4fe270b6f6949755"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_06",
+      "name": "Wallpaper 06",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_06/v1/background.png",
+          "bytes": 3507972,
+          "sha256": "2fc7f2caf341d4d7f6339e6a1e91910d57f1282d8cce7a996feb64ad14d1458b"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_06/v1/background.png",
+          "bytes": 3507972,
+          "sha256": "2fc7f2caf341d4d7f6339e6a1e91910d57f1282d8cce7a996feb64ad14d1458b"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_07",
+      "name": "Wallpaper 07",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_07/v1/background.png",
+          "bytes": 3789315,
+          "sha256": "806b9f0f63f8856481b12a2b902a72cf0d6c8d6f2288aac0bcfcda4a087ed1bb"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_07/v1/background.png",
+          "bytes": 3789315,
+          "sha256": "806b9f0f63f8856481b12a2b902a72cf0d6c8d6f2288aac0bcfcda4a087ed1bb"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_08",
+      "name": "Wallpaper 08",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_08/v1/background.png",
+          "bytes": 2113651,
+          "sha256": "b083c2b9eebd9d6a69e2568eb8f3da86f3030cbab570fb9808e5901e338a8e25"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_08/v1/background.png",
+          "bytes": 2113651,
+          "sha256": "b083c2b9eebd9d6a69e2568eb8f3da86f3030cbab570fb9808e5901e338a8e25"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_09",
+      "name": "Wallpaper 09",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_09/v1/background.jpg",
+          "bytes": 312846,
+          "sha256": "3eb050fef5ce5d840f9ef9254034d68d5787c24c08d8492b4c213d345d402490"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_09/v1/background.jpg",
+          "bytes": 312846,
+          "sha256": "3eb050fef5ce5d840f9ef9254034d68d5787c24c08d8492b4c213d345d402490"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_10",
+      "name": "Wallpaper 10",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_10/v1/background.jpg",
+          "bytes": 565779,
+          "sha256": "1c7a338c4e9bc4da9c404d6ed8aeeb61626b3ecd0ae4b76031174dc13055ad15"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_10/v1/background.jpg",
+          "bytes": 565779,
+          "sha256": "1c7a338c4e9bc4da9c404d6ed8aeeb61626b3ecd0ae4b76031174dc13055ad15"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_11",
+      "name": "Wallpaper 11",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_11/v1/background.jpg",
+          "bytes": 561850,
+          "sha256": "156b2b847bbcff3c8ac70afd2e37527c102649628ada37ab6a723f443a2254e1"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_11/v1/background.jpg",
+          "bytes": 561850,
+          "sha256": "156b2b847bbcff3c8ac70afd2e37527c102649628ada37ab6a723f443a2254e1"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_12",
+      "name": "Wallpaper 12",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_12/v1/background.jpg",
+          "bytes": 211459,
+          "sha256": "cb72a7630b9d9ecf3a4844a3ea5fe5da63ad6ee191063ed402f340fa0b458d2e"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_12/v1/background.jpg",
+          "bytes": 211459,
+          "sha256": "cb72a7630b9d9ecf3a4844a3ea5fe5da63ad6ee191063ed402f340fa0b458d2e"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_13",
+      "name": "Wallpaper 13",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_13/v1/background.jpg",
+          "bytes": 395570,
+          "sha256": "b26af1c0a8343fdd5e1d0204dd776181ea9269016298582e22307abb7980c3bd"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_13/v1/background.jpg",
+          "bytes": 395570,
+          "sha256": "b26af1c0a8343fdd5e1d0204dd776181ea9269016298582e22307abb7980c3bd"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_14",
+      "name": "Wallpaper 14",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_14/v1/background.jpg",
+          "bytes": 590002,
+          "sha256": "4440331b83178abc37c4eb2cb6bb646663de87b91de21165e707e4af22cb876b"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_14/v1/background.jpg",
+          "bytes": 590002,
+          "sha256": "4440331b83178abc37c4eb2cb6bb646663de87b91de21165e707e4af22cb876b"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_15",
+      "name": "Wallpaper 15",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_15/v1/background.jpg",
+          "bytes": 839795,
+          "sha256": "460ea8082ed65fd58908c2a5be89173811141100497505d9560a8be2690ebca0"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_15/v1/background.jpg",
+          "bytes": 839795,
+          "sha256": "460ea8082ed65fd58908c2a5be89173811141100497505d9560a8be2690ebca0"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_16",
+      "name": "Wallpaper 16",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_16/v1/background.jpg",
+          "bytes": 555392,
+          "sha256": "ac165736e2cc41784214220e7354a6f4e1ad201c5b873022d650b1fc1877c8b8"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_16/v1/background.jpg",
+          "bytes": 555392,
+          "sha256": "ac165736e2cc41784214220e7354a6f4e1ad201c5b873022d650b1fc1877c8b8"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_17",
+      "name": "Wallpaper 17",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_17/v1/background.jpg",
+          "bytes": 676765,
+          "sha256": "2a78fd7c2c31c5fd4defa6aa1b621815b211f4e574fe133939078831e96b1a08"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_17/v1/background.jpg",
+          "bytes": 676765,
+          "sha256": "2a78fd7c2c31c5fd4defa6aa1b621815b211f4e574fe133939078831e96b1a08"
+        }
+      }
+    },
+    {
+      "id": "wallpaper_18",
+      "name": "Wallpaper 18",
+      "kind": "background",
+      "renderer": "static",
+      "category": "wallpaper",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background": {
+          "path": "backgrounds/wallpaper_18/v1/background.jpg",
+          "bytes": 523413,
+          "sha256": "76bfa342fc5f60ed521b59692be3eb1967522de9a7131165b518c8342a3a8c6d"
+        },
+        "preview": {
+          "path": "backgrounds/wallpaper_18/v1/background.jpg",
+          "bytes": 523413,
+          "sha256": "76bfa342fc5f60ed521b59692be3eb1967522de9a7131165b518c8342a3a8c6d"
+        }
+      }
+    },
+    {
+      "id": "background_petal_groove",
+      "name": "Petal Groove",
+      "kind": "background",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background_video": {
+          "path": "styles/petal_groove/v1/background_video.mp4",
+          "bytes": 436201,
+          "sha256": "59611a3bde16c87b5e5bc9eeee137973a672939b5d3c70cfb7c3f3a6dac08031"
+        },
+        "preview": {
+          "path": "styles/petal_groove/v1/background_poster.jpg",
+          "bytes": 63910,
+          "sha256": "2d75be69a3428776dfc5cf5ae8374df5fbd01540245cf97b3452454f06a0e8df"
+        },
+        "background": {
+          "path": "styles/petal_groove/v1/background_poster.jpg",
+          "bytes": 63910,
+          "sha256": "2d75be69a3428776dfc5cf5ae8374df5fbd01540245cf97b3452454f06a0e8df"
+        }
+      }
+    },
+    {
+      "id": "background_winter_cottage",
+      "name": "Winter Cottage",
+      "kind": "background",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background_video": {
+          "path": "styles/winter_cottage/v1/background_video.mp4",
+          "bytes": 441485,
+          "sha256": "876adab723d8046e35cb910e96e09e9603436ef9c0455e38edc06f47198398ca"
+        },
+        "preview": {
+          "path": "styles/winter_cottage/v1/background_poster.jpg",
+          "bytes": 35017,
+          "sha256": "9d724900934afbbbb8e6ae59a741d2b51b57bc24da8d6f31b5c15d875d1d10c9"
+        },
+        "background": {
+          "path": "styles/winter_cottage/v1/background_poster.jpg",
+          "bytes": 35017,
+          "sha256": "9d724900934afbbbb8e6ae59a741d2b51b57bc24da8d6f31b5c15d875d1d10c9"
+        }
+      }
+    },
+    {
+      "id": "background_glacier_aurora",
+      "name": "Glacier Aurora",
+      "kind": "background",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background_video": {
+          "path": "styles/glacier_aurora/v1/background_video.mp4",
+          "bytes": 1037539,
+          "sha256": "57bbb414febb46c26a778502855e2c9610542f627177c82ce8360264b2826821"
+        },
+        "preview": {
+          "path": "styles/glacier_aurora/v1/background_poster.jpg",
+          "bytes": 43564,
+          "sha256": "ab8b0ba9edcddd600515351028b33167a0be422f67c75316fc0193dc65e95efc"
+        },
+        "background": {
+          "path": "styles/glacier_aurora/v1/background_poster.jpg",
+          "bytes": 43564,
+          "sha256": "ab8b0ba9edcddd600515351028b33167a0be422f67c75316fc0193dc65e95efc"
+        }
+      }
+    },
+    {
+      "id": "background_guitar_girl",
+      "name": "Guitar Girl",
+      "kind": "background",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background_video": {
+          "path": "styles/guitar_girl/v1/background_video.mp4",
+          "bytes": 1256404,
+          "sha256": "b7f27554a62a2534571aea898ff212e7d94b05eb8d174a1484e11740eda6b8c3"
+        },
+        "preview": {
+          "path": "styles/guitar_girl/v1/background_poster.jpg",
+          "bytes": 44757,
+          "sha256": "e34a99113607c862fc1a53e451f7e1c1656f77238a12f3d4079c143de1c8fbf7"
+        },
+        "background": {
+          "path": "styles/guitar_girl/v1/background_poster.jpg",
+          "bytes": 44757,
+          "sha256": "e34a99113607c862fc1a53e451f7e1c1656f77238a12f3d4079c143de1c8fbf7"
+        }
+      }
+    },
+    {
+      "id": "background_kitty_spin",
+      "name": "Kitty Spin",
+      "kind": "background",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background_video": {
+          "path": "styles/kitty_spin/v1/background_video.mp4",
+          "bytes": 488835,
+          "sha256": "9bbcbf72c10224ea2a739f3c1748d9b75179036afdb68b2a8c4bf388d68e652f"
+        },
+        "preview": {
+          "path": "styles/kitty_spin/v1/background_poster.jpg",
+          "bytes": 52787,
+          "sha256": "4b03e1589671beacb344ec25f7e4aa6aa19f1fc2b13622da39b12077b507d857"
+        },
+        "background": {
+          "path": "styles/kitty_spin/v1/background_poster.jpg",
+          "bytes": 52787,
+          "sha256": "4b03e1589671beacb344ec25f7e4aa6aa19f1fc2b13622da39b12077b507d857"
+        }
+      }
+    },
+    {
+      "id": "background_lunar_vinyl",
+      "name": "Lunar Vinyl",
+      "kind": "background",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background_video": {
+          "path": "styles/lunar_vinyl/v1/background_video.mp4",
+          "bytes": 736772,
+          "sha256": "7636722996ce7c5086889590e9de04074981ef472ca46f220a71b04dd53b07a6"
+        },
+        "preview": {
+          "path": "styles/lunar_vinyl/v1/background_poster.jpg",
+          "bytes": 47240,
+          "sha256": "08adb9343d6f96f9ac7659c616dc8af841c1a5198fd20ff44590e2728044f28a"
+        },
+        "background": {
+          "path": "styles/lunar_vinyl/v1/background_poster.jpg",
+          "bytes": 47240,
+          "sha256": "08adb9343d6f96f9ac7659c616dc8af841c1a5198fd20ff44590e2728044f28a"
+        }
+      }
+    },
+    {
+      "id": "background_deep_space",
+      "name": "Deep Space",
+      "kind": "background",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background_video": {
+          "path": "styles/deep_space/v1/background_video.mp4",
+          "bytes": 929724,
+          "sha256": "7501542281ef08ceacca17465bb2bf344a6011b39e3245dc14c0c4d3c7ecaa7a"
+        },
+        "preview": {
+          "path": "styles/deep_space/v1/background_poster.jpg",
+          "bytes": 41450,
+          "sha256": "d39f107c391b79a40f24885bb6635311e83c975c0f33798f19d7a9bf5b7249f4"
+        },
+        "background": {
+          "path": "styles/deep_space/v1/background_poster.jpg",
+          "bytes": 41450,
+          "sha256": "d39f107c391b79a40f24885bb6635311e83c975c0f33798f19d7a9bf5b7249f4"
+        }
+      }
+    },
+    {
+      "id": "background_vinyl_sunset",
+      "name": "Vinyl Sunset",
+      "kind": "background",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background_video": {
+          "path": "styles/vinyl_sunset/v1/background_video.mp4",
+          "bytes": 509534,
+          "sha256": "52e7b5811a18328ba773be3ab7f30342d446d3ee10a2eefba3df37ed030418a4"
+        },
+        "preview": {
+          "path": "styles/vinyl_sunset/v1/background_poster.jpg",
+          "bytes": 25949,
+          "sha256": "be3b4ce9b68c9219feae11fef93f279c8ebed50dd2e6c06880d5c685f63191c2"
+        },
+        "background": {
+          "path": "styles/vinyl_sunset/v1/background_poster.jpg",
+          "bytes": 25949,
+          "sha256": "be3b4ce9b68c9219feae11fef93f279c8ebed50dd2e6c06880d5c685f63191c2"
+        }
+      }
+    },
+    {
+      "id": "background_pumpkin_spell",
+      "name": "Pumpkin Spell",
+      "kind": "background",
+      "renderer": "dynamic",
+      "category": "dynamic",
+      "version": 1,
+      "parameters": {},
+      "assets": {
+        "background_video": {
+          "path": "styles/pumpkin_spell/v1/background_video.mp4",
+          "bytes": 810377,
+          "sha256": "fd04b5f9f5e56fb4f19d92e753f0232cd85f41e6e74b9083900e2feee216492b"
+        },
+        "preview": {
+          "path": "styles/pumpkin_spell/v1/background_poster.jpg",
+          "bytes": 46128,
+          "sha256": "2ddce05317aa7770422bca34282e00c363324472a661aa1d522e4683015f3bd8"
+        },
+        "background": {
+          "path": "styles/pumpkin_spell/v1/background_poster.jpg",
+          "bytes": 46128,
+          "sha256": "2ddce05317aa7770422bca34282e00c363324472a661aa1d522e4683015f3bd8"
+        }
+      }
+    },
+    {
+      "id": "colorful_flows",
+      "name": "Colorful Flows",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/colorful_flows/v1/preview.webp",
+          "bytes": 7770,
+          "sha256": "6fa728a53e67d7d0807af79fe50a4680434a47a18c77c7c74e394ee7357fffce"
+        }
+      }
+    },
+    {
+      "id": "color_surrounding",
+      "name": "Color Surrounding",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/color_surrounding/v1/preview.webp",
+          "bytes": 8830,
+          "sha256": "14f05c449d34d55a7753116bc9e6938b3168043f6725b06b35bb6ac5d02f139d"
+        }
+      }
+    },
+    {
+      "id": "green_column",
+      "name": "Green Column",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/green_column/v1/preview.webp",
+          "bytes": 14862,
+          "sha256": "2f8181d82169bfe8a69d5944456dedccebbc284ae9a1dbef48a8a3aeab878eef"
+        }
+      }
+    },
+    {
+      "id": "line_bubble",
+      "name": "Line Bubble",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/line_bubble/v1/preview.webp",
+          "bytes": 15102,
+          "sha256": "67b28bb5cd09edfc2905b53dcdb8b528dfc4d8ccb75f3ab43423adeea5dfbbff"
+        }
+      }
+    },
+    {
+      "id": "colorful_column",
+      "name": "Colorful Column",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/colorful_column/v1/preview.webp",
+          "bytes": 9478,
+          "sha256": "36999bcc34f4d213f13df63d24c899e89c1d29646cd3732fd8edca4b90f6f5d7"
+        }
+      }
+    },
+    {
+      "id": "blue_bubble",
+      "name": "Blue Bubble",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/blue_bubble/v1/preview.webp",
+          "bytes": 11942,
+          "sha256": "9d4b2c94669c13923da66eb795319d1bac35a688b832c6c46f896aa064b53d52"
+        }
+      }
+    },
+    {
+      "id": "multi_wave",
+      "name": "Multi Wave",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/multi_wave/v1/preview.webp",
+          "bytes": 18254,
+          "sha256": "51441be15574bbe0ce5fafb504f7fe130329b4404701c2a4522daf7f7da9251e"
+        }
+      }
+    },
+    {
+      "id": "pink_bubble",
+      "name": "Pink Bubble",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/pink_bubble/v1/preview.webp",
+          "bytes": 16572,
+          "sha256": "46fa053fc432779a202310290aaaf75b72ba01c9ef2f0fbe83df338fd3e5f576"
+        }
+      }
+    },
+    {
+      "id": "wave_shape",
+      "name": "Wave Shape",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/wave_shape/v1/preview.webp",
+          "bytes": 10968,
+          "sha256": "5025a30710351883e7f77e1b1f8a550f888afe73d5b8c326fb9744592c1358ff"
+        }
+      }
+    },
+    {
+      "id": "all_round",
+      "name": "All Round",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/all_round/v1/preview.webp",
+          "bytes": 17338,
+          "sha256": "a21cb1be5dd0758cc610a8b46c1e6c1f57d06e505fdd41ba7c6a532bfeecdd70"
+        }
+      }
+    },
+    {
+      "id": "fire_wave",
+      "name": "Fire Wave",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/fire_wave/v1/preview.webp",
+          "bytes": 10412,
+          "sha256": "ca00683f6030823bf0adb3f8f6fc6b760ffc0d905ba3771a0b6714506b678ade"
+        }
+      }
+    },
+    {
+      "id": "sea_line",
+      "name": "Sea Line",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/sea_line/v1/preview.webp",
+          "bytes": 12554,
+          "sha256": "5663e54f7c5b93c905a8a9a3a60d5e2bbdd76680222e7fc2dca65059a3b76125"
+        }
+      }
+    },
+    {
+      "id": "wave_line",
+      "name": "Wave Line",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/wave_line/v1/preview.webp",
+          "bytes": 13524,
+          "sha256": "ed47df74eeadb11bf205730e5be8b53e62127258e65a66e57cd09f3bb8a6ed40"
+        }
+      }
+    },
+    {
+      "id": "lights_one",
+      "name": "Lights One",
+      "kind": "effect",
+      "renderer": "preview",
+      "category": "effect",
+      "version": 1,
+      "parameters": {
+        "previewOnly": true
+      },
+      "assets": {
+        "preview": {
+          "path": "effects/lights_one/v1/preview.webp",
+          "bytes": 10310,
+          "sha256": "935764d1eef747137e4fcb4f2fa7530dfb3322f819a1667cc9603c11423fcc94"
+        }
+      }
+    }
+  ]
+}
