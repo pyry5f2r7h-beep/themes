@@ -1,0 +1,16 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+app/build/
+.android-sdk/
+.superpowers/
+.kotlin
+docs/superpowers/
+.worktrees/
+docs/
+graphify-out
+docs
+artwork
+tools
